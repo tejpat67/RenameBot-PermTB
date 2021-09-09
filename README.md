@@ -12,7 +12,7 @@ Rename any Telegram Files with Permanent Thumbnail Support
 
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/RenameBot-PermTB)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tejpat67/RenameBot-PermTB.git)
 
 ### Deploy in your vps
 ```sh
@@ -30,7 +30,5 @@ python3 -m tobrot
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell) 
-* [Yoily](https://telegram.dog/YoilyL)
-* [Anand](https://telegram.dog/Anandpskerala)
+* [SpEcHlDe](https://telegram.dog/tp_botz) 
+
